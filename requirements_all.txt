@@ -451,6 +451,9 @@ construct==2.10.56
 # homeassistant.components.coronavirus
 coronavirus==1.1.1
 
+# homeassistant.components.spokestack_tts
+cython==0.29.21
+
 # homeassistant.components.datadog
 datadog==0.15.0
 
@@ -1017,6 +1020,7 @@ numato-gpio==0.10.0
 
 # homeassistant.components.iqvia
 # homeassistant.components.opencv
+# homeassistant.components.spokestack_tts
 # homeassistant.components.tensorflow
 # homeassistant.components.trend
 numpy==1.19.2
@@ -2112,6 +2116,9 @@ speedtest-cli==2.1.2
 
 # homeassistant.components.spider
 spiderpy==1.4.2
+
+# homeassistant.components.spokestack_tts
+spokestack==0.0.16
 
 # homeassistant.components.spotcrime
 spotcrime==1.0.4
